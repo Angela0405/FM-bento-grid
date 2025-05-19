@@ -12,7 +12,7 @@ This is my solution to the [Bento grid challenge on Frontend Mentor](https://www
 
 [![Mobile screenshot](./assets/images/FireShot2.png)](./assets/images/FireShot2.png)
 
-## 🔗 Live Demo
+## Live Demo
 
 - Live Site URL: [https://angela0405.github.io/FM-bento-grid/](https://angela0405.github.io/FM-bento-grid/)
 - Solution Repo: [https://github.com/Angela0405/FM-bento-grid](https://github.com/Angela0405/FM-bento-grid)
